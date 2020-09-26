@@ -4,4 +4,4 @@
 
 In the interest of protecting the designers who produced the typefaces used on this site, I will no longer be hosting my portfolio on Github.
 
-If you want to use a commercial typeface, please respect the designer(s) who made it and purchase it.
+If you want to use a commercial typeface, please respect the designer(s) who made it and purchase a proper license.
